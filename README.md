@@ -1,2 +1,2 @@
-# Undergraduate-Thesis-Project-Code
+# Thesis-Code
 My Undergraduate Thesis Project Code
